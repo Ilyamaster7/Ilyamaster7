@@ -52,3 +52,5 @@ https://10.11.12.0/nextcloud - for CLI
 
 apt-get install alterator-fbi ahttpd
 systemctl enable --now ahttpd alteratord
+
+
